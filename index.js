@@ -24,3 +24,5 @@ function save() {
    countEl.textContent = 0;
    count = 0;
 }
+console.log("hello world");
+console.log("hooyo macaan")
